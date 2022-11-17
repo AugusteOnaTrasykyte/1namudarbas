@@ -1,0 +1,42 @@
+#pragma once
+#include <iostream>
+#include <iomanip>
+#include <string>
+#include <cstdio>
+#include <vector>
+#include <algorithm>
+#include <cstdlib>
+#include <numeric>
+#include <fstream>
+#include <sstream>
+#include <iterator>
+#include <chrono>
+#include <random>
+#include <list>
+using std::vector;
+using std::cout;
+using std::cin;
+using std::endl;
+using std::string;
+using std::left;
+using std::setw;
+using std::fixed;
+using std::setprecision;
+using std::sort;
+using std::ofstream;
+using std::stringstream;
+using std::distance;
+using std::istream_iterator;
+using std::ifstream;
+using std::ws;
+using std::runtime_error;
+using std::to_string;
+using std::list;
+using std::remove_if;
+
+struct duom {
+	string var;
+	string pav;
+	vector<int> paz;
+	int egz;
+};
