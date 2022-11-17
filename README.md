@@ -5,6 +5,7 @@
 * Studentai dalinami į dvi kategorijas: "minkšti", "kieti", pagal jų galutinius balus (t.y. > ar < už penkis).
 * Rezultatai išvedami į du surušiuotus failus.
 * Atliekama programos spartos analizė.
+
 1000:
 Failo sukūrimas užtruko:  0.039134s;
 Failo nuskaitymas užtruko:  0.0410825s;
